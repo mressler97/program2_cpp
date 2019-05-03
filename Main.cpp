@@ -1,3 +1,9 @@
+/* Name: Michael Ressler
+ * Class: CSCI112 Programming with C
+ * Assignment	Program 2 (C++ program)
+ * Date: 4/26/2019
+*/
+
 #include <iostream>
 #include <fstream>
 #include <string>
